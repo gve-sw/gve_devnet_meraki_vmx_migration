@@ -1,0 +1,13 @@
+# Environment files
+venv
+.env
+
+# CSV output file
+*.csv
+
+# json output files
+*.json
+
+
+.idea/
+__pycache__/
